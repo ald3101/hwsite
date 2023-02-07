@@ -1,0 +1,49 @@
+body {
+	font-size: 24px;
+}
+
+header {
+	background: white;
+	color: Pink;
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+	font-size: 133%;	
+}
+
+nav {
+	background: rgb(255,20,147);
+	height: 30px;
+}
+
+nav a {
+	margin-left: 20%;
+	color: black;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+
+div.information {
+	margin-left: 20%;
+	margin-right: 15%;
+	margin-top: 40px;
+	margin-bottom: 10px;
+	font-size: 90%;
+}
+
+div.information h2.title{
+	margin-left: -5%;
+	color: #C71585;
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+	font-size: 140%;
+}
+
+footer {
+	background: rgb(255,20,147);
+	height: 60px;
+}
+
+footer p {
+	padding: 20px;
+	margin-top: 30px;
+	font-size: 100%;
+}
